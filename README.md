@@ -1,2 +1,2 @@
-# IBM-Data-Analytics
+# Data-Analytics
 Data analysis with python
